@@ -1,7 +1,2 @@
-﻿  Problem1.cpp
-C:\Users\murati\Documents\SolveProjectEuler\ProjectEuler\Problem1.cpp(5): warning C4101: 'num': ローカル変数は 1 度も使われていません。
-  Problem2.cpp
-C:\Users\murati\Documents\SolveProjectEuler\ProjectEuler\Problem2.cpp(5): warning C4101: 'num': ローカル変数は 1 度も使われていません。
-  コードを生成中...
-Problem2.obj : error LNK2005: main は既に Problem1.obj で定義されています。
-C:\Users\murati\Documents\SolveProjectEuler\x64\Debug\ProjectEuler.exe : fatal error LNK1169: 1 つ以上の複数回定義されているシンボルが見つかりました。
+﻿  Problem2.cpp
+  ProjectEuler.vcxproj -> B:\ディスクトップ\Documents\SolveProjectEuler\x64\Debug\ProjectEuler.exe

@@ -27,5 +27,16 @@
     <ClCompile Include="Problem1.cpp">
       <Filter>ソース ファイル\Problem1</Filter>
     </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Problem1.h">
+      <Filter>ソース ファイル\Problem1</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem2.h">
+      <Filter>ソース ファイル\Problem2</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
