@@ -19,6 +19,12 @@
     <Filter Include="ソース ファイル\Problem2">
       <UniqueIdentifier>{52e6a80f-39fd-4e99-84ec-b113de6f08aa}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ソース ファイル\Problem3">
+      <UniqueIdentifier>{30322390-19cc-438a-9f0f-0d4574abee5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Problem4">
+      <UniqueIdentifier>{9d44be39-ad87-4d35-8a3f-36ab2d9229d1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problem2.cpp">
@@ -30,6 +36,12 @@
     <ClCompile Include="Main.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="Problem3.cpp">
+      <Filter>ソース ファイル\Problem3</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem4.cpp">
+      <Filter>ソース ファイル\Problem4</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Problem1.h">
@@ -37,6 +49,12 @@
     </ClInclude>
     <ClInclude Include="Problem2.h">
       <Filter>ソース ファイル\Problem2</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem3.h">
+      <Filter>ソース ファイル\Problem3</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem4.h">
+      <Filter>ソース ファイル\Problem4</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
